@@ -1,0 +1,15 @@
+[
+    [
+        "meld",
+        "meld"
+    ],
+    [
+        "vscode",
+        "code",
+        [
+            "--new-window",
+            "--wait",
+            "--diff"
+        ]
+    ]
+]

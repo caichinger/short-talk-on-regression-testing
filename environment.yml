@@ -1,0 +1,15 @@
+name: demo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - black
+  - isort
+  - pandas
+  - pip
+  - pytest
+  - pytest-regressions
+  - python=3.10
+  - pip:
+      - pytest-approvaltests
+      - pytest-watch
